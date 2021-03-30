@@ -1,2 +1,4 @@
 # project-fa19
-CS 170 Fall 2019 Project
+Given a graph that satisfies the triangle inequality, a start vertex, and list of houses, devise a cycle that drops off everyone such that total cost of everyone walking back to their house and the cost of the car visiting vertices is minimized.
+
+The full spec: [Drive the TAs Home](spec.pdf)
